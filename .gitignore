@@ -1,3 +1,7 @@
+# local dir
+logs/*
+model_store/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
